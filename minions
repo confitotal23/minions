@@ -1,5 +1,5 @@
 {
-"name": "ZoNa AceStreAm",
+"name": "📺ZoNa AceStreAm📡",
 "author": "Minions",
 "image": "https://i.postimg.cc/QCS09S5S/Ace-Stream.png",
 "url": "https://raw.githubusercontent.com/confitotal23/minions/refs/heads/main/minions",
@@ -7,18 +7,6 @@
 "info": "",
 "groups":
     [
-        {
-         "name": "lista fuera iptv(old)",
-         "image": "https://i.postimg.cc/QCS09S5S/Ace-Stream.png",
-         "url": "https://ipfs.io/ipns/k2k4r8oqlcjxsritt5mczkcn4mmvcmymbqw7113fz2flkrerfwfps004/data/listas/lista_fuera_iptv.m3u",
-         "import": false
-        },
-        {
-         "name": "lista iptv(old)",
-         "image": "https://i.postimg.cc/QCS09S5S/Ace-Stream.png",
-         "url": "https://ipfs.io/ipns/k2k4r8oqlcjxsritt5mczkcn4mmvcmymbqw7113fz2flkrerfwfps004/data/listas/lista_iptv.m3u",
-         "import": false
-        },
         {
          "name": "lista 11 hashes",
          "image": "https://i.postimg.cc/QCS09S5S/Ace-Stream.png",
@@ -34,3 +22,4 @@
          
     ]
 }
+
