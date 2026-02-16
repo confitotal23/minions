@@ -20,13 +20,13 @@
          "import": false
         },  
        {
-         "name": "LiSTa 1️⃣📑",
+         "name": "LiSTa ace server",
          "image": "https://i.postimg.cc/QCS09S5S/Ace-Stream.png",
-         "url": "https://ipfs.io/ipns/k51qzi5uqu5dh5qej4b9wlcr5i6vhc7rcfkekhrxqek5c9lk6gdaiik820fecs/hashes_acestream.m3u",
+         "url": "http://127.0.0.1:6878/pl.m3u",
          "import": false
         },
         {
-         "name": "LiSTa 2️⃣📑",
+         "name": "LiSTa cano",
          "image": "https://i.postimg.cc/QCS09S5S/Ace-Stream.png",
          "url": "https://ipfs.io/ipns/k51qzi5uqu5di462t7j4vu4akwfhvtjhy88qbupktvoacqfqe9uforjvhyi4wr/hashes_acestream.m3u",
          "import": false
